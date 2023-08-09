@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrew-0807
 - 👀 I’m interested in games, learning , making money
 - 🌱 I’m currently learning Python, Rust, Javascript, C++
-- 📫 How to reach me andreeeeivlad0807@gmail.com or linkedin.com/in/vlad-andrei-187338287
+- 📫 How to reach me andreeeeivlad0807@gmail.com or www.linkedin.com/in/vlad-andrei-187338287
 
 
 <!---
